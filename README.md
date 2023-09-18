@@ -8,7 +8,7 @@ This project is an internal web service API for managing orders. It allows other
 - [API Endpoints](#api-endpoints)
 - [Commands to start server](#commands-to-start-server)
 - [Commands to test server](#commands-to-test-server)
-- [ENV Variable](#env-variables)
+- [ENV Variable](#env-variable)
 
 ## Features
 
