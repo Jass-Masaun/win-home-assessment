@@ -36,14 +36,20 @@ You can explore and test the API endpoints using Postman. Click the "Run in Post
 
 ```bash
 npm i
+```
+```bash
 npm start
 ```
 
 ## Commands to test server
 
-- npm run test
+```bash
+npm run test
+```
 
 ## ENV Variable
 
+```bash
 - PORT=
 - MONGODB_URI=
+```
