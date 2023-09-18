@@ -6,6 +6,9 @@ This project is an internal web service API for managing orders. It allows other
 - [Features](#features)
 - [Technologies](#technologies)
 - [API Endpoints](#api-endpoints)
+- [Commands to start server](#commands-to-start-server)
+- [Commands to test server](#commands-to-test-server)
+- [ENV Variable](#env-variables)
 
 ## Features
 
@@ -28,3 +31,17 @@ This project is an internal web service API for managing orders. It allows other
 You can explore and test the API endpoints using Postman. Click the "Run in Postman" button below:
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/12419873/2s9YC8uVTs)
+
+## Commands to start server
+
+- npm i
+- npm start
+
+## Commands to test server
+
+- npm run test
+
+## ENV Variable
+
+- PORT=
+- MONGODB_URI=
