@@ -34,8 +34,10 @@ You can explore and test the API endpoints using Postman. Click the "Run in Post
 
 ## Commands to start server
 
-- npm i
-- npm start
+```bash
+npm i
+npm start
+```
 
 ## Commands to test server
 
